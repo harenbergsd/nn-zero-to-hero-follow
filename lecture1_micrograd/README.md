@@ -1,0 +1,1 @@
+Separate repo for lecture 1: https://github.com/harenbergsd/micrograd-cpp
