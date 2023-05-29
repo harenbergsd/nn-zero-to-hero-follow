@@ -1,0 +1,1 @@
+Following along [kparthy's nn-zero-to-hero material](https://github.com/karpathy/nn-zero-to-hero) with some tweaks and changes along the way.
